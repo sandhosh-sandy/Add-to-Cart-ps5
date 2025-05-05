@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name":" PS5 Gaming console",
+        "price": 49000,
+        "image": "https://m.media-amazon.com/images/I/41b-EDZt7dL._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+        "id": 2,
+        "name":" PS5 Gaming console(slim) Digital Edition",
+        "price": 39990,
+        "image": "https://m.media-amazon.com/images/I/51afJC92cgL._SX425_.jpg"
+    },
+    {
+        "id": 3,
+        "name":" PS5 Gaming console video game disc -Fortnite Bundle (slim)",
+        "price": 54490,
+        "image": "https://m.media-amazon.com/images/I/41jMV86VoIL._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+        "id": 4,
+        "name":"Sony DualSense Wireless Controller White (PlayStation 5)",
+        "price": 5699,
+        "image": "https://m.media-amazon.com/images/I/31nh0udpAKL._SX300_SY300_QL70_FMwebp_.jpg"
+    },
+    {
+        "id": 5,
+        "name":"Sony PlayStation Portal Remote Player",
+        "price": 22990,
+        "image": "https://m.media-amazon.com/images/I/61AAACPOagL._SX679_.jpg"
+    },
+    {
+        "id": 6,
+        "name":"Sony DualSense Wireless Controller Red (PlayStation 5) ",
+        "price":5699,
+        "image": "https://m.media-amazon.com/images/I/61afp1oz7eL._SX425_.jpg"
+    }
+]
